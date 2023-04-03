@@ -60,5 +60,5 @@ dribbble_url:
 google_analytics:
 
 # The following settings are NECESSARY for the Prologue theme to run:
-theme: felipecastillo/jekyll-theme-prologue
+theme: cast6858/jekyll-theme-prologue
 collections: [sections]

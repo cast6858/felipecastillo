@@ -6,17 +6,15 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I love books! Here are some that I have read:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+1. Darren Hardy: *The Compound Effect*
+2. Seth Stephens - Davidowitz: *Everybody Lies Big Data, New Data and What The Internet Can Tell Us About Who We Really Are*
+3. Ray Kroc: *Gringing It Out*
+4. Dale Carnegie: *How To Win Friends And Influence People*
+5. Adam Braun: *The Promise Of a Pencil*
+6. Grant Cardone: *Sell Or Be Sold*
+7. Grant Cardone: *Be Obesessed Or Be Average*
+8. Robert Kikosaki: *Rich Dad Poor Dad*
+9. Brian Tracy: *The Psychology of Selling *
+10. James Clear: *Atomic Habits*

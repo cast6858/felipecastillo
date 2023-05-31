@@ -1,5 +1,5 @@
 ---
-title: First
+title: First Post
 author: Felipe Castillo 
 layout: post
 ---
